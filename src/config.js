@@ -57,7 +57,7 @@ function parseBoolean(value, fallback) {
 
 module.exports = {
   site: {
-    baseUrl: process.env.BASE_URL || "https://www.aquiferdist.com",
+    baseUrl: process.env.BASE_URL || "https://www.xyz.com",
     categoriesPath: process.env.CATEGORIES_PATH || "/Categories",
   },
   output: {

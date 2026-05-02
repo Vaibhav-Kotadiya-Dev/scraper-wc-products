@@ -1,6 +1,6 @@
-# AquiferDist Playwright Scraper
+# Playwright Scraper
 
-Production-oriented Playwright scraper for `https://www.aquiferdist.com/Categories` that:
+Production-oriented Playwright scraper for `https://www.xyz.com/Categories` that:
 
 - crawls top-level categories and nested subcategories
 - follows catalog pagination and refinement/filter URLs

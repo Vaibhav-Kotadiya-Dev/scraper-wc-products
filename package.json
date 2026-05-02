@@ -1,0 +1,16 @@
+{
+  "name": "pph-client",
+  "version": "1.0.0",
+  "description": "Playwright scraper for Aquifer Distribution categories and products",
+  "main": "src/index.js",
+  "scripts": {
+    "scrape": "node src/index.js",
+    "scrape:headed": "HEADLESS=false node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "playwright": "^1.53.0"
+  }
+}
